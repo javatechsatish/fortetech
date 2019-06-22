@@ -1,2 +1,2 @@
 # fortetech
-fortetech repo
+fortetech repo for git command demonstration
